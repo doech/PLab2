@@ -1,6 +1,6 @@
 # Lab2 - App Android con Jetpack Compose
 
-Este proyecto es parte del laboratorio 2 de desarrollo móvil. Se trata de una aplicación sencilla construida con **Kotlin** y **Jetpack Compose**, que muestra un mensaje de bienvenida y un botón interactivo.
+Este proyecto es parte del laboratorio 2 de plataformas móviles. Se trata de una aplicación sencilla construida con **Kotlin** y **Jetpack Compose**, que muestra un mensaje de bienvenida y un botón interactivo.
 
 ## ✨ Funcionalidades
 
